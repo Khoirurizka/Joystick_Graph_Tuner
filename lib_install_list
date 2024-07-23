@@ -1,0 +1,9 @@
+pip install tk
+sudo apt-get install python-imaging-tk
+sudo apt-get install python3-pil python3-pil.imagetk
+
+
+cmake ..
+cmake --build .
+
+for custom cmake library read the CMAKELists.txt that install the library for know depencies

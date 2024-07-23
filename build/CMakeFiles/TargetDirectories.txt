@@ -1,0 +1,3 @@
+/home/clan-nur/Graph_Tuner_Test/build/CMakeFiles/JoystickGraphTuner.dir
+/home/clan-nur/Graph_Tuner_Test/build/CMakeFiles/edit_cache.dir
+/home/clan-nur/Graph_Tuner_Test/build/CMakeFiles/rebuild_cache.dir
